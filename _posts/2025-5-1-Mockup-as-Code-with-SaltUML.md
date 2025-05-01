@@ -1,32 +1,29 @@
 ---
 
 layout: post
-title: Fast & Accurate UI Mockup-As-Code Using SaltUML
+title: Mockup-As-Code Using SaltUML
 
 ---
 
 
-If you're working in any kind of development or planning role for a complex system, you are aware that diagram as code brings huge benefits to the architect and product owner roles.  Expressing system documentation as code allows for quick iteration, clearer collaboration, better version control, and automation, all of which are critical when dealing with dynamic systems at scale.
+If you're working in any kind of development or planning role for a complex system, you are aware that diagram as code brings huge benefits to the architect and product owner roles.  Expressing system documentation as code allows for quick iteration, clearer collaboration, better version control and automation, all of which are critical when dealing with dynamic systems at scale.
 
 While many people are familiar with UML renderers for things like system and sequence diagrams, I recently discovered PlantUML's Salt subproject, and it has complete changed my approach to developing rough mockups.  With Salt, I can use simple markup language to create functionally accurate interface mockups.  
 
-Consider the following screenshot of the AWS EC2 dashboard, and the rough mockup that was generated with fewer than 100 lines of SaltUML.
+Consider the following screenshot of the AWS EC2 dashboard.
 
-<div class="img-comp-container">
-  <div class="img-comp-img">
-    <img src="../images/ec2_dash.png" width="300" height="200">
-  </div>
-  <div class="img-comp-img img-comp-overlay">
-    <img src="../images/ec2_dash-mock.png" width="300" height="200">
-  </div>
-</div>
+![](../images/ec2_dash.png)
+
+Here's a rough mockup that was generated with fewer than 100 lines of SaltUML.
+ rough mockup that was generated with fewer than 100 lines of SaltUML.
+![](../images/ec2_dash-mock.png)
 
 
-One can learn its primitives and be productive within a few hours of playing around with it.  With a bit of experience SaltUML allows very rapid prototyping and iteration of graphical designs.  The following replication of the AWS Instance Dashboard interface takes under 100 lines of code to accurately represent the AWS EC2 Dashboard UI:
-
+<details>
   
+<summary>Show Code</summary>
 
-  ```plantuml
+```plantuml
 @startsalt
 {+ 
 {+   AWS ‖ <&grid-three-up>  {+ "<&magnifying-glass> Search                          " }                                          <&terminal> ‖ <&bell> ‖ <&question-mark> ‖ <&cog> ‖ United States(Ohio)<&caret-bottom> ‖ <color:#146eb4>username@9876-5432-1098<&caret-bottom> }
@@ -131,7 +128,10 @@ One can learn its primitives and be productive within a few hours of playing aro
 }
 @endsalt
 
-  ```
+```
+</details>
+
+One can learn its primitives and be productive within a few hours of playing around with it.  With a bit of experience SaltUML allows very rapid prototyping and iteration of graphical designs.
 
 Salt explicitly focuses on **function** over form.  Users with light HTML experience will find the [Creole](https://plantuml.com/creole) engine very flexible in formatting.  You can declare your own sprites, but the Openiconic library has an analog for virtually every icon I have needed.
 
