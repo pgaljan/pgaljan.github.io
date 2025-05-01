@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: Thirty years of MLOps 
+title: Fast & Accurate UI Mockup-As-Code Using SaltUML
 
 ---
-# Fast & Accurate UI Mockup-As-Code Using SaltUML
+
 
 If you're working in any kind of development or planning role for a complex system, you are aware that diagram as code brings huge benefits to the architect and product owner roles.  Expressing system documentation as code allows for quick iteration, clearer collaboration, better version control, and automation, all of which are critical when dealing with dynamic systems at scale.
 
