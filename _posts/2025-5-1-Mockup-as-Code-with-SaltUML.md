@@ -12,17 +12,18 @@ While many people are familiar with UML renderers for things like system and seq
 
 Consider the following screenshot of the AWS EC2 dashboard.
 
+#### Screenshot
 ![](../images/ec2_dash.png)
 
+
+#### SaltUML Mockup
 Here's a rough mockup that was generated with fewer than 100 lines of SaltUML.
- rough mockup that was generated with fewer than 100 lines of SaltUML.
+
 ![](../images/ec2_dash-mock.png)
 
 
-<details>
+<code>
   
-<summary>Show Code</summary>
-
 ```plantuml
 
 @startsalt
@@ -131,7 +132,7 @@ Here's a rough mockup that was generated with fewer than 100 lines of SaltUML.
 
 ```
 
-</details>
+</code>
 
 ## Getting Started
 
