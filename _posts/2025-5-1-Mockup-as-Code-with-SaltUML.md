@@ -19,7 +19,7 @@ Consider the following screenshot of the AWS EC2 dashboard.
 
 
 #### SaltUML Mockup
-Here's a rough mockup that was generated with fewer than [100 lines of SaltUML](../ecs-dash.puml).
+Here's a rough mockup that was generated with around [100 lines of SaltUML](https://github.com/pgaljan/pgaljan.github.io/blob/master/ecs-dash.puml).
 
 ![](../images/ec2_dash-mock.png)
 
@@ -32,4 +32,4 @@ The learning curve is remarkably gentle. Within a few hours of experimenting, yo
 Salt explicitly focuses on **function** over form.  Users with light HTML experience will find the [Creole](https://plantuml.com/creole) engine very flexible in formatting.  You can declare your own sprites, but the [Openiconic](https://plantuml.com/openiconic) library has an analog for virtually every icon I have needed.  I have gathered a handful of templates for mobile and web apps in the [salt](https://github.com/pgaljan/dac/blob/main/salt.md) section of the [dac](https://github.com/pgaljan/dac) project, which you can use regardless of the renderer you choose.  
 
 ## Results
-Once I integrated this into my design workflows, I've found that my designs are much more consistent and accurate, while being much more fluid, with versionable, iterable assets.  I've created a library of re-usable templates like the AWS dashboard which can be leveraged across projects, dramatically improving collaboration and communication.
+I've observed that integrating SaltUML into my workflow improves my consistency and accuracy.  The text-based generation allows me to generate versionable assets that can be differenced and iterated on.  As I've become more fluid with the pattern, I've created a library of re-usable templates like this AWS dashboard which can be leveraged across projects, dramatically improving my scale, collaboration, and communication.
