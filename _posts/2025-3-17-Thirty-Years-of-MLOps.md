@@ -2,12 +2,8 @@
 
 layout: post
 title: Thirty years of MLOps 
-comments: true
 
 ---
-
-A recent tour through the current Machine Learning (ML) approaches brought home how robust the space has become over the last 6-8 years.  Every layer of the ML stack seems to present at least a handful of very good choices, tuned to whatever outcome you want.  Today, I’ll compare this wealth of options to my first exposure to ML pipeline work.
-
 ## Early Days
 In the late 1990s, I became involved in an experiment that included the deployment of an ML pipeline to process what at the time was considered to be a tremendous volume of time-stamped messages.  The goal of this international effort, [initiated](https://apps.dtic.mil/sti/tr/pdf/ADP204402.pdf) by DARPA for the United States and [finished](https://apps.dtic.mil/sti/citations/ADA530260) by the Defense Threat Reduction Agency, was to demonstrate the feasibility of using ML algorithms to perform automated detection and location of nuclear events (distinguishing them from natural and non-nuclear man-made events).  The experiment ultimately led to key insights into the methods of automated [multi-sensor data fusion](https://apps.dtic.mil/sti/tr/pdf/ADA374102.pdf) and anomaly detection. 
 
