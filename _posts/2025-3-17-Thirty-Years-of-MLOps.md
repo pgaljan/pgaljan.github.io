@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 30 years of MLOps 
+title: Thirty years of MLOps 
 comments: true
 
 ---
