@@ -14,7 +14,7 @@ Reliably estimate the price range of a solution before proof of concept. [EC2 Ex
 ![alt text](./images/ec2.png)
 
 ## EasyGANTT
-Leverage Excel to generate PlantUML GANTT markup.  [EasyGANTT](https://github.com/pgaljan/EasyGantt) has robust features such as zoom to time period, configurable frontmatter, auto progress indication, with mutliple timebox options.
+Leverage [Excel](https://github.com/pgaljan/EasyGantt) or [Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQatYdUuM1jGRKROE78Lo6Z3ZVh6B2cxBvvakiPSA8ieB2OGNoUzI36ooqIep0oLC9HlAYc2wf9a2L9/pubhtml) to generate PlantUML GANTT markup.  EasyGANTT has robust features such as zoom to time period, configurable frontmatter, auto progress indication, with mutliple timebox options.
 ![alt text](./images/easygantt.png)
 
 ## Mockup as Code
