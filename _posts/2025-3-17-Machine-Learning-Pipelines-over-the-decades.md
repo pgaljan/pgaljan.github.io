@@ -1,6 +1,9 @@
 ---
+
 layout: post
-title: Machine Learning Pipelines: Tracing the Evolution
+title: 30 years of MLOps 
+comments: true
+
 ---
 
 A recent tour through the current Machine Learning (ML) approaches brought home how robust the space has become over the last 6-8 years.  Every layer of the ML stack seems to present at least a handful of very good choices, tuned to whatever outcome you want.  Today, I’ll compare this wealth of options to my first exposure to ML pipeline work.
@@ -36,3 +39,23 @@ Having witnessed this evolution from proprietary stacks to modular ecosystems, t
 - Aggressively replace or remove components that are not delivering value correlating to their expense or effort
 
 ML pipelines still depend on a deep understanding of your data. and maintaining clear paths for human expertise to improve the system. The tools have become democratized, but the core principles of good ML engineering remain remarkably consistent.
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://pgaljan.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
