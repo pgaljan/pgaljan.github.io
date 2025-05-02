@@ -8,8 +8,6 @@ plugins:
 - jekyll-feed
 - jekyll-include-cache
 
-theme: Tactile
-
 # Name of your site (displayed in the header)
 name: Paul Galjan
 
