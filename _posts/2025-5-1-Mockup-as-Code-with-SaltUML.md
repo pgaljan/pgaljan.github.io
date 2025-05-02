@@ -23,7 +23,7 @@ Here's a rough mockup that was generated with around [100 lines of SaltUML](http
 
 ## Getting Started
 
-The learning curve is remarkably gentle. Within a few minutes of messing around with some primitives, you'll be able to replicate and iterate on simple UI.  With practice and imagination, you can create functionally accurate UI wireframes that represent even the most complex graphical workflows and intefaces. The markup language feels intuitive for anyone with basic HTML experience. 
+The learning curve is remarkably gentle. With a few minutes of messing around with the primitives, you'll be able to replicate and iterate on simple UI modals.  With practice and imagination, you can create functionally accurate UI wireframes that represent even the most complex graphical workflows and intefaces. The markup language feels intuitive for anyone with basic HTML experience. 
 
 To get started, find a rendering and authoring experience that feels natural to you, whether it's a whiteboard application like [Miro](https://miro.com/diagramming/plantuml-online/), an extension to [VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml), or just playing around in the plantuml [playgrounds](https://plantuml.com/salt) with the sample code.  
 
