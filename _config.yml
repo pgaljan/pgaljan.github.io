@@ -2,11 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-feed
-- jekyll-include-cache
+
 
 # Name of your site (displayed in the header)
 name: Paul Galjan
@@ -52,7 +48,7 @@ url: https://pgaljan.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "/pgaljan"
+baseurl: "/pgaljan.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -89,3 +85,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+- jekyll-include-cache
