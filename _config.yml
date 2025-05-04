@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-
-
 # Name of your site (displayed in the header)
 name: Paul Galjan
 
@@ -42,13 +40,13 @@ google_analytics: G-04ZYM3MPS9
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://pgaljan.github.io
+url: http://pgaljan.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: "/pgaljan.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -85,9 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-#remote_theme: pages-themes/tactile@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-#- jekyll-feed
-#- jekyll-include-cache
