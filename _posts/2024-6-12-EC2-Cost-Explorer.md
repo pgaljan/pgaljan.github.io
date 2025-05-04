@@ -4,6 +4,7 @@ layout: post
 title: EC2 Cost Estimation 
 
 ---
+
 # Optimizing Cloud Infrastructure Pricing Early in the Design Phase
 
 
