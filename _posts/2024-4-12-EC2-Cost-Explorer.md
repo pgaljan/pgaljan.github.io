@@ -5,11 +5,11 @@ title: EC2 Cost Estimation
 
 ---
 
-# Optimizing Cloud Infrastructure Pricing Early in the Design Phase
 
 
 Making smart architecture decisions early can dramatically impact your cloud computing costs. Let's explore how AWS EC2 cost estimation tools can help you build cost-effective solutions from day one.
 ![](../images/ec2explorerflow.png)
+
 ## Why Early Cost Estimation Matters
 
 When designing cloud services, seemingly minor architectural decisions can lead to massive cost differences over time. Getting accurate cost projections early helps you make more accurate ROI determinations, and avoid expensive re-architectures later when your service is already in production.
