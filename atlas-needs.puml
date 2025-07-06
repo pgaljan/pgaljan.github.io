@@ -1,0 +1,42 @@
+@startjson
+title Big Rocks
+
+{
+    "Business":{
+        "Paul": [
+            "Collaboration Strategy",
+            "x-Structure Reporting",
+            "Analytics integration",
+            "Regulatory Review",
+            "User Acquisition Plan",
+            "Payment Processing"
+        ]
+    },
+    "Security":{
+        "Patrick":[
+            "Collaboration Architecture",
+            "Content Safety",
+            "IAC Automation",
+            "Audit logging",
+             "Pen Testing"
+            ]
+        
+        },
+    "Ops":{
+        "Fadi":[
+            "Ops Guide",
+            "Monitoring/Alerting",
+            "Test Automation"
+        ]
+        },
+    "Design": {
+        "TBD": [
+            "Workflow Optimization",
+            "Web Analytics Strategy"
+        ]
+    }
+
+        
+    
+}
+@endjson

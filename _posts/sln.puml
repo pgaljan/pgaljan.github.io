@@ -1,0 +1,131 @@
+@startjson
+
+{
+    "CI/CD Tool": [
+      "jenkins"
+    ],
+    "Cloud Infrastructure": [
+      "vmware-cloud-foundation"
+    ],
+    "Configuration Management": [
+      "ansible",
+      "ansible-core"
+    ],
+    "Container Orchestration": [
+      "amazon-eks",
+      "azure-kubernetes-service",
+      "google-kubernetes-engine",
+      "kubernetes"
+    ],
+    "Container Platform": [
+      "red-hat-openshift"
+    ],
+    "Containerization": [
+      "docker-engine"
+    ],
+    "Data Processing": [
+      "logstash"
+    ],
+    "Data Visualization": [
+      "kibana"
+    ],
+    "Database": [
+      "mariadb",
+      "mongodb",
+      "mssqlserver",
+      "mysql",
+      "postgresql",
+      "sqlite"
+    ],
+    "Development Framework": [
+      "dotnetfx"
+    ],
+    "Disaster Recovery": [
+      "vmware-srm"
+    ],
+    "Email/Collaboration Server": [
+      "msexchange"
+    ],
+    "File System": [
+      "openzfs"
+    ],
+    "Hardware": [
+      "intel-processors",
+      "nvidia-gpu",
+      "raspberry-pi"
+    ],
+    "Hardware Company": [
+      "nvidia"
+    ],
+    "IDE": [
+      "visual-studio"
+    ],
+    "Log Processor": [
+      "fluent-bit"
+    ],
+    "Messaging System": [
+      "apache-kafka",
+      "rabbitmq"
+    ],
+    "Mobile Device": [
+      "apple-watch",
+      "fairphone",
+      "iphone"
+    ],
+    "Mobile Operating System": [
+      "ios",
+      "ipados"
+    ],
+    "Monitoring": [
+      "prometheus"
+    ],
+    "Operating System": [
+      "alpine",
+      "amazon-linux",
+      "centos",
+      "centos-stream",
+      "fedora",
+      "freebsd",
+      "ibm-aix",
+      "linux",
+      "macos",
+      "openbsd",
+      "rhel",
+      "sles",
+      "ubuntu",
+      "windows",
+      "windows-embedded",
+      "windows-server"
+    ],
+    "Package Repository": [
+      "artifactory"
+    ],
+    "Scripting Language": [
+      "powershell"
+    ],
+    "Search Engine": [
+      "elasticsearch",
+      "opensearch"
+    ],
+    "Security Tool": [
+      "hashicorp-vault"
+    ],
+    "Static Site Generator": [
+      "jekyll"
+    ],
+    "Virtualization": [
+      "esxi",
+      "horizon"
+    ],
+    "Virtualization Management": [
+      "vcenter"
+    ],
+    "Web Browser": [
+      "internet-explorer"
+    ],
+    "Web Server": [
+      "apache",
+      "nginx"
+    ]
+  }
+  @endjson

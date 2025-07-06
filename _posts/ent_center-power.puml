@@ -1,0 +1,51 @@
+@startuml
+
+skinparam port {
+  borderColor Green
+  backgroundColor Yellow
+  backgroundColor<<shared_node>> Magenta
+}
+node entertainmentCenter as "Entertainment Center"{
+    port IEC
+    port HDMI
+    port Cat6 as "Cat-6"
+    port ANT 
+    port MOCA
+    node PDU as "PDU" {
+        port powerIn as "Type 2"
+        port USB1 as "USB-A (Smart)"
+        port USB2 as "USB-A (Smart)"
+        port USB3 as "USB-A (QC)"
+        port USB4 as "USB-C"
+        port P1
+        port P2
+        port P3
+        port P4
+        port P5
+        port P6
+        port P7
+        port P8
+        port P9
+        port P10
+        port P11
+        port P12
+        port P13
+
+    
+    }
+    rectangle switch {
+        port 1
+        port 2
+        port 3
+        port 4
+        port 5
+        port USB
+    }
+    USB1 -- USB
+    Cat6 -- 5
+    IEC -- powerIn
+    
+}
+
+
+@enduml

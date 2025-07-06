@@ -1,0 +1,66 @@
+@startuml
+
+skinparam port {
+  borderColor Green
+  backgroundColor Yellow
+  backgroundColor<<shared_node>> Magenta
+}
+node entertainmentCenter as "Entertainment Center"{
+    port HDMIin as "HDMI In"
+    port Cat6 as "Cat6"
+    port ANT 
+    rectangle hdmiswitch as "HDMI" {
+        port hdmiswitch5 as "1"
+        port hdmiswitch2 as "2"
+        port hdmiswitch3 as "3"
+        port hdmiswitch4 as "4"
+        port hdmiswitch1 as "Out"
+        
+
+    }
+    rectangle ethswitch as "Ethernet" {
+        port 1
+        port 2
+        port 3
+        port 4
+        port 5
+    }
+    Cat6 -- 5
+    rectangle XBox {
+        port XboxEth as "Eth"
+        port XboxHDMI as "HDMI"
+    }
+
+rectangle atnSplitter as "Ant Splitter"{
+    port antSplitIn1 as "In"
+    port antSplitOut1 as "Out"
+    port antSplitOut2 as "Out"
+}
+rectangle DVR as "Tablo DVR" {
+    port dvrEth as "Eth"
+    port dvrAnt as "Ant"
+}
+    XboxEth -- 4
+    XboxHDMI -- hdmiswitch4
+    HDMIin -- hdmiswitch2
+    dvrEth -- 1
+    antSplitOut2 -- dvrAnt
+}
+
+
+node television {
+    port tvHDMI1 as "HDMI 1"
+    port tvHDMI2 as "HDMI 2"
+    port AntIn as "ANT"
+}
+ANT -- antSplitIn1
+    antSplitOut1 -- AntIn
+
+
+hdmiswitch1 -- tvHDMI2
+node soundbar as "Sound Bar" {
+    port sbhdmi as "HDMI"
+}
+
+tvHDMI1 -- sbhdmi
+@enduml
