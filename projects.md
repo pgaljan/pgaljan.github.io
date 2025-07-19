@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+## CleanSheet
+An experimental SaaS platform for collaborative, multi-modal authoring.
 
 ## Software Lifecycle Navigator
 Complex dependency graphs are the default with microservice architectures. [Lifecycle Navigator](https://app.powerbi.com/view?r=eyJrIjoiYzgyYThhYzAtNDY1Ny00MWYyLWJhZmEtNjE5OGRiZWNiY2Y2IiwidCI6ImZlNGQ5NDA3LWE5NzEtNDhjMy1hOTkzLTRjMmNiOGQ2MjM4NCIsImMiOjF9) visually maps release cadence and support status for over 60 software and hardware projects to assess interop and test matrix complexity. Updates weekly.
