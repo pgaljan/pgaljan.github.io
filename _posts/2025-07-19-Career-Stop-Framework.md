@@ -39,9 +39,7 @@ Here are a few more to illustrate how it's ussed across industries and job types
 **Chemist**
 ![Chemist](../images/careerstop-chemist.drawio.png)
 
-If you'd like to adapt it for yourself,  grab the image below:
 
-![Career Stop Template](../images/careerstop-template2.drawio.png)
 
 
 
