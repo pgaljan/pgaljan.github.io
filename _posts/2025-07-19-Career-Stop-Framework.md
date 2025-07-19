@@ -6,7 +6,7 @@ title: Career Stop Framework
 ---
 ![Career Stop Framework](../images/careerstop-retail.drawio.png)
 
-The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progressionof their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
+The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progression for their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
 
 ### Using the framework
 The framework is divided into three categories:
