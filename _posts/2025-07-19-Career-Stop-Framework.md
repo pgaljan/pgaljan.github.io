@@ -9,7 +9,7 @@ The career stop framework is a quick way to gain a full appreciation of a single
 
 This is how a retail store manager might represent a career stop.
 
-![Career Stop Framework](./images/careerstop-retail.drawio.svg)
+![Career Stop Framework](./images/careerstop-retail.drawio.png)
 
 ### Using the framework
 The framework is divided into three categories, each with two subcategories.
@@ -36,11 +36,11 @@ Taken together, these indicate immediate value that you can present to an organi
 - **Priorities** are strategic elements that on which you focus your continual improvement efforts
 
 As a contrast to the retail example, I've included one that reflects my current career stop:
-![My Current Career Stop](./images/pdm.drawio.svg)
+![My Current Career Stop](./images/careerstop-pdm.drawio.png)
 
 If you'd like to adapt it for yourself,  grab the SVG below:
 
-![Career Stop Template](./images/careerstop.svg)
+![Career Stop Template](./images/careerstop-template.drawio.png)
 
 
 
