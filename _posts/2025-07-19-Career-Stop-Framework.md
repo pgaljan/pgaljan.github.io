@@ -29,7 +29,8 @@ Taken together, these categories describe what you do on a day to day basis.
 - **Practices** indicate regular activites you engage in during the execution of your job
 - **Priorities** are strategic areas where you focus your continual improvement efforts
 
-Here are a few more to illustrate how it's ussed across industries and job types
+Here are a few more to illustrate how it might be applied in a variety of industries and roles
+
 **Retail Manager**
 ![Retail Manager](../images/careerstop-retail2.drawio.png)
 **Product Manager**
