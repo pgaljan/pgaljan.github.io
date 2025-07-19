@@ -13,14 +13,14 @@ The framework is divided into three categories:
 
 ##### <span style="background-color:#D5E8D4">Opportunity
 
-Taken together, these categories describe of what you do on a day to day basis.  
+Taken together, these categories describe what you do on a day to day basis.  
 - **Job** might roughly reflect you job title and have a very level list of your tasks or deliverables
 - **Trade** indicates your role in the industry.  
 
 
 #####  <span style="background-color:#E1D5E7">Approach
 
-- **Tools** are physical or software tools you use on a day to day basis.  **Core** tools are critical to the job function, and with which you consider yourself adept.  **Incidental** tools are those that you engage as a consumer rather than author, indicating familiarity rather than expertise.
+- **Tools** are physical or software tools you use on a day to day basis.  **Core** tools are critical to the job function, and with which you consider yourself adept.  **Incidental** tools are those that you engage as a consumer rather than author or expert, indicating familiarity rather than expertise.
 - **Profession** is the career path and core methodologies in which you have an academic interest
 
 #####  <span style="background-color:#DAE8FC">Brand
@@ -29,8 +29,15 @@ Taken together, these categories describe of what you do on a day to day basis.
 - **Practices** indicate regular activites you engage in during the execution of your job
 - **Priorities** are strategic areas where you focus your continual improvement efforts
 
-As a contrast to the retail example above, I've included one that reflects my current career stop:
-![My Current Career Stop](../images/careerstop-pdm.drawio.png)
+Here are a few more to illustrate how it's ussed across industries and job types
+**Retail Manager**
+![Retail Manager](../images/careerstop-retail.drawio.png)
+**Product Manager**
+![Product Manager](../images/careerstop-pdm.drawio.png)
+**Mechanic**
+![Mechanic](../images/careerstop-Mechanic.drawio.png)
+**Chemist**
+![Chemist](../images/careerstop-chemist.drawio.png)
 
 If you'd like to adapt it for yourself,  grab the image below:
 
