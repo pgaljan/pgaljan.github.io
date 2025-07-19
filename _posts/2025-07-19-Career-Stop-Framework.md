@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Career Stop 
+title: Career Stop Framework
 
 ---
 
