@@ -6,7 +6,7 @@ title: Career Stop Framework
 ---
 ![Career Stop Framework](../images/careerstop-retail.drawio.png)
 
-The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-inustry experience, and need a little help tying together a full narrative and progression.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
+The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progressionof their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
 
 ### Using the framework
 The framework is divided into three categories, each with two subcategories.
@@ -32,7 +32,7 @@ Taken together, these categories describe of what you do on a day to day basis.
 As a contrast to the retail example above, I've included one that reflects my current career stop:
 ![My Current Career Stop](../images/careerstop-pdm.drawio.png)
 
-If you'd like to adapt it for yourself,  grab the SVG below:
+If you'd like to adapt it for yourself,  grab the image below:
 
 ![Career Stop Template](../images/careerstop-template.drawio.png)
 
