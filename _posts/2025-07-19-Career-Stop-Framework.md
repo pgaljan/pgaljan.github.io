@@ -9,7 +9,7 @@ title: Career Stop Framework
 The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progressionof their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
 
 ### Using the framework
-The framework is divided into three categories, each with two subcategories.
+The framework is divided into three categories:
 
 ##### <span style="background-color:#D5E8D4">Opportunity
 
@@ -27,7 +27,7 @@ Taken together, these categories describe of what you do on a day to day basis.
 
 - **Competencies** indicate the services you provide and activities you perform in the service of your current job.  As a guideline, it is something that can consistently be delivered using multiple tools and methods.  For example, Excel is a tool, data analysis is a competency.
 - **Practices** indicate regular activites you engage in during the execution of your job
-- **Priorities** are strategic elements that on which you focus your continual improvement efforts
+- **Priorities** are strategic areas where you focus your continual improvement efforts
 
 As a contrast to the retail example above, I've included one that reflects my current career stop:
 ![My Current Career Stop](../images/careerstop-pdm.drawio.png)
