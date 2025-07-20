@@ -13,10 +13,10 @@ The framework is divided into three categories:
 
 ##### <span style="background-color:#D5E8D4">Opportunity
 
-Taken together, these categories describe what you do on a day to day basis.  
 - **Job** reflects your job title, with a 4-5 item list of your tasks or deliverables
 - **Trade** indicates your role in the industry
 
+Taken together, these categories describe what you do on a day to day basis.  
 
 #####  <span style="background-color:#E1D5E7">Approach
 
@@ -30,7 +30,9 @@ Taken together, these categories describe what you do on a day to day basis.
 - **Practices** indicate regular activites you engage in during the execution of your job
 - **Priorities** are strategic areas where you focus your continual improvement efforts
 
-Here are a few more to illustrate how it might be applied in a variety of industries and roles
+##### Examples
+
+Here are a few examples to illustrate how the framework can be applied to a variety of industries and roles
 
 **Retail Manager**
 ![Retail Manager](../images/careerstop-retail2.drawio.png)
@@ -39,7 +41,7 @@ Here are a few more to illustrate how it might be applied in a variety of indust
 **Mechanic**
 ![Mechanic](../images/careerstop-Mechanic.drawio.png)
 **Chemist**
-![Chemist](../images/careerstop-chemist.drawio.png)
+![Chemist](../images/careerstop-chemist2.drawio.png)
 
 
 
