@@ -47,6 +47,9 @@ Here are a few examples to illustrate how the framework can be applied to a vari
 ![retail example](../images/retail2.png)
 **Mechanic**
 ![mechanic  example](../images/mechanic.png)
+**Product Manager**
+![Product Manager](../images/pdm.png)
+
 **Lawyer**
 ![lawyer  example](../images/law.png)
 
