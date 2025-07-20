@@ -4,7 +4,7 @@ layout: post
 title: Career Stop Framework
 
 ---
-![Career Stop Template](../images/careerstop-template2.drawio.png)
+![Career Stop Template](../images/careerstop-template.drawio.png)
 
 The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progression for their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
 
@@ -35,13 +35,13 @@ Taken together, these categories describe what you do on a day to day basis.
 Here are a few examples to illustrate how the framework can be applied to a variety of industries and roles
 
 **Retail Manager**
-![Retail Manager](../images/careerstop-retail2.drawio.png)
+![Retail Manager](../images/careerstop-retail.drawio.png)
 **Product Manager**
-![Product Manager](../images/careerstop-pdm2.drawio.png)
+![Product Manager](../images/careerstop-pdm.drawio.png)
 **Mechanic**
-![Mechanic](../images/careerstop-Mechanic.drawio.png)
+![Mechanic](../images/careerstop-Mechanic4.drawio.png)
 **Chemist**
-![Chemist](../images/careerstop-chemist2.drawio.png)
+![Chemist](../images/careerstop-chemist.drawio.png)
 
 
 
