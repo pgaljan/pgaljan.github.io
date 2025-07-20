@@ -5,7 +5,7 @@ title: Career Stop Framework
 
 ---
 
-![alt text](image.png)
+![career stop input](./image.png)
 The career stop framework is a quick way to gain a full appreciation of a single work experience.  It is particularly useful for workers who have broad cross-industry experience, and need a little help tying together a full narrative and progression for their career.  When completed, it also provides a solid initial prompt for generative AI summarization of the role.
 
 ### Using the framework
@@ -35,13 +35,13 @@ Taken together, these categories describe what you do on a day to day basis.
 Here are a few examples to illustrate how the framework can be applied to a variety of industries and roles
 
 **Chemist**
-![alt text](image-2.png)
+![chemist example](./image-2.png)
 **Retail Manager**
-![alt text](image-5.png)
+![retail example](./image-5.png)
 **Mechanic**
-![alt text](image-3.png)
+![mechanic  example](./image-3.png)
 **Lawyer**
-![alt text](image-4.png)
+![lawyer  example](./image-4.png)
 
 Download the [excel template](../careerstop.xlsx) to leverage this framework with your career experience.
 
