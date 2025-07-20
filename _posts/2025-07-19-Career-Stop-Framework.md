@@ -32,8 +32,10 @@ Taken together, these categories describe what you do on a day to day basis.
 
 ##### Examples
 
-Here are a few examples to illustrate how the framework can be applied to a variety of industries and roles
+Here are a few examples to illustrate how the framework can be applied to a variety of industries and roles:
 
+**Medical Office Worker**
+![medical office worker](../images/medical.png) 
 **Chemist**
 ![chemist example](../images/chem.png)
 **Retail Manager**
