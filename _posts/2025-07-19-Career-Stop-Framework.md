@@ -14,18 +14,19 @@ The framework is divided into three categories:
 ##### <span style="background-color:#D5E8D4">Opportunity
 
 Taken together, these categories describe what you do on a day to day basis.  
-- **Job** might roughly reflect you job title and have a very level list of your tasks or deliverables
-- **Trade** indicates your role in the industry.  
+- **Job** reflects your job title, with a 4-5 item list of your tasks or deliverables
+- **Trade** indicates your role in the industry
 
 
 #####  <span style="background-color:#E1D5E7">Approach
 
-- **Tools** are physical or software tools you use on a day to day basis.  **Core** tools are critical to the job function, and with which you consider yourself adept.  **Incidental** tools are those that you engage as a consumer rather than author or expert, indicating familiarity rather than expertise.
+- **Core** tools are physical or software tools you use on a day to day basis, critical to the job function, and with which you consider yourself adept.  
+- **Incidental** tools are those that you engage as a consumer rather than author or expert, indicating familiarity rather than expertise.
 - **Profession** is the career path and core methodologies in which you have an academic interest
 
 #####  <span style="background-color:#DAE8FC">Brand
 
-- **Competencies** indicate the services you provide and activities you perform in the service of your current job.  As a guideline, it is something that can consistently be delivered using multiple tools and methods.  For example, Excel is a tool, data analysis is a competency.
+- **Competencies** indicate the services you provide and activities you perform in the service of your current job.  In general, these are things that consistently be delivered using a variety of tools and methods.  For example, Excel is a tool, data analysis is a competency.
 - **Practices** indicate regular activites you engage in during the execution of your job
 - **Priorities** are strategic areas where you focus your continual improvement efforts
 
